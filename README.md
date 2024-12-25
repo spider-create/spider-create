@@ -1,7 +1,6 @@
-# 👋 Hi there, I'm Spider Create
+# 👋 Hi there,
 
 [![GitHub followers](https://img.shields.io/github/followers/spider-create?style=social)](https://github.com/spider-create)
-[![Twitter Follow](https://img.shields.io/twitter/follow/spider_create?style=social)](https://twitter.com/spider_create)
 
 ## 🚀 About Me
 Full Stack Blockchain Developer | Smart Contract Expert | DeFi Enthusiast
