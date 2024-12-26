@@ -35,16 +35,6 @@ Full Stack Blockchain Developer | Smart Contract Expert | DeFi Enthusiast
 ![AAVE](https://img.shields.io/badge/AAVE-B6509E?style=for-the-badge&logo=aave&logoColor=white)
 ![Serum](https://img.shields.io/badge/Serum-9945FF?style=for-the-badge&logo=serum&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Spider Create's GitHub stats](https://github-readme-stats.vercel.app/api?username=spider-create&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spider-create&layout=compact&theme=radical)](https://github.com/spider-create)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=spider-create&theme=onedark)](https://github.com/spider-create)
-
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasit-nikolic-88b558343/)
