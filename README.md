@@ -39,11 +39,3 @@ Full Stack Blockchain Developer | Smart Contract Expert | DeFi Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasit-nikolic-88b558343/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Tol_Jack)
-
-## 🎯 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-⭐️ From [spider-create](https://github.com/spider-create)
